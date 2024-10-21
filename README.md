@@ -28,7 +28,7 @@
     <img src="images/logo.jpg" alt="Logo" width="540" height="80">
   </a>
 
-  <h2 align="center">Android collaboratored project</h2>
+  <h2 align="center">Android collaborative project</h2>
 
 <p align="center">
     <h3>     Android application for manage collections of LEGO bricks
@@ -101,7 +101,7 @@ Android smartphone or Android emulator is need. <br/>
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/dominik-stec/Android_collab_app_PJA.git
+   git clone https://github.com/dominik-stec/Android_collaborative_app.git
    ```
 2. Install Android Studio
 3. Open project with sources into android Studio
@@ -161,13 +161,13 @@ See `LICENSE` for more information.
 
 ## Contact
 
-Dominik Stec - dominikstec@devapp.tools
+Dominik Stec - dccstcc@gmail.com
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 Project URL:
 <br />
-`https://github.com/dominik-stec/Android_collab_app_PJA.git`
+`https://github.com/dominik-stec/Android_collaborative_app.git`
 
 <!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
@@ -188,16 +188,16 @@ Project URL:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/Android_collab_app_PJA.svg?style=for-the-badge
-[contributors-url]: https://github.com/dominik-stec/Android_collab_app_PJA/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dominik-stec/Android_collab_app_PJA.svg?style=for-the-badge
-[forks-url]: https://github.com/dominik-stec/Android_collab_app_PJA/network/members
-[stars-shield]: https://img.shields.io/github/stars/dominik-stec/Android_collab_app_PJA.svg?style=for-the-badge
-[stars-url]: https://github.com/dominik-stec/Android_collab_app_PJA/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dominik-stec/Android_collab_app_PJA.svg?style=for-the-badge
-[issues-url]: https://github.com/dominik-stec/Android_collab_app_PJA/issues
+[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/Android_collaborative_app.svg?style=for-the-badge
+[contributors-url]: https://github.com/dominik-stec/Android_collaborative_app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dominik-stec/Android_collaborative_app.svg?style=for-the-badge
+[forks-url]: https://github.com/dominik-stec/Android_collaborative_app/network/members
+[stars-shield]: https://img.shields.io/github/stars/dominik-stec/Android_collaborative_app.svg?style=for-the-badge
+[stars-url]: https://github.com/dominik-stec/Android_collaborative_app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dominik-stec/Android_collaborative_app.svg?style=for-the-badge
+[issues-url]: https://github.com/dominik-stec/Android_collaborative_app/issues
 [license-shield]: https://img.shields.io/badge/License-NONE-orange
-[license-url]: https://github.com/dominik-stec/Android_collab_app_PJA/blob/main/LICENSE.md
+[license-url]: https://github.com/dominik-stec/Android_collaborative_app/blob/main/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
